@@ -15,7 +15,7 @@ Este repositório contém o código SQL para a configuração do banco de dados 
 
 ## Como Usar
 1. Clone o repositório.
-2. Execute o script `.sql` em seu ambiente PostgreSQL para criar o banco de dados e tabelas.
+2. Execute o script `.sql` em seu ambiente PostgreSQL para inserir as tabelas.
 
 ## Considerações Finais
-Documentação e informações adicionais sobre o projeto.
+[Documentação](https://docs.google.com/document/d/1gzrvBV-I3c3hwarcl4QtjPU8i-DXZ9dzi5n8vKc44LU/edit?usp=sharing) e informações adicionais sobre o projeto.
